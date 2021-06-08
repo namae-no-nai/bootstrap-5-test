@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="72005a056154f1a22d9faae03468df4b">
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar mt-5 navbar-expand-lg navbar-dark">
+        <div class="container-fluid">
+          <a class="navbar-brand fw-bold text-primary" href="#">BoredTest</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link px-3 active" aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link px-3" href="#">Features</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link px-3" href="#">Pricing</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link px-3 dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Dropdown link
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
+                  <li><a class="dropdown-item" href="#">Another action</a></li>
+                  <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </div>
+
+    <div class="container-fluid custom-bg">
+      <div class="container py-5">
+        <h1 class="fw-bold">Testing this boring thing</h1>
+        <p class="subhead fs-4 mb-0 text-white-50">In the end it might no be that boring at all.</p>
+      </div>
+    </div>
+
+    <div class="container pt-3">
+      <div class="row mt-5">
+        <div class="col-sm">
+          <div class="card">
+            <img src="46384770377f85326ca7254ec5251049" class="card-img-top" alt="large-building">
+            <div class="card-body p-4 rounded-bottom">
+              <h5 class="card-title">
+                Card title
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm">
+          <div class="card">
+            <img src="c97828087fa1fa4fab1353c3229b2aab" class="card-img-top" alt="large-building">
+            <div class="card-body p-4 rounded-bottom">
+              <h5 class="card-title fw-bold">
+                Card title
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm">
+          <div class="card">
+            <img src="5a0d818df278754b1af12bc3bc268313" class="card-img-top" alt="large-building">
+            <div class="card-body p-4 rounded-bottom">
+              <h5 class="card-title">
+                Card title
+              </h5>
+              <p class="card-text">
+                Some quick example text to build on the card title and make up the bulk of the card
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-5">
+        <div class="col-12 col-md-6 col-lg-4">
+          <h2 class="mb-5">
+            Join our mailing list:
+          </h2>
+        </div>
+          <div class="col-sm">
+            <label for="exampleInputEmail1" class="form-label">Email address</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+          </div>
+          <div class="col-12 col-md-2">
+            <button type="submit" class="btn btn-primary mt-4 w-100">Submit</button>
+          </div>
+        </div>
+    </div>
+    <script src="9f3f0397a3729cfef951edc494372e0c"></script>
+  </body>
+</html>
